@@ -19,9 +19,9 @@ PlugSettings = {
 		allowBackgroundOverride : false,
 		allowAvatarOverride : false,
 		backgroundOverrideURL : "",
-		audienceOverride : "",
-		boothOverride : "",
-		djOverride : ""
+		audienceOverride : "http://i.imgur.com/Ph0vdkE.png",
+		boothOverride : "http://i.imgur.com/xUQPLcG.png",
+		djOverride : "http://i.imgur.com/fMbbnHZ.png"
 };
 
 
